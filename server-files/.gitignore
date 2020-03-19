@@ -1,0 +1,14 @@
+/.vscode/*
+/node_modules/*
+bridge/runtime
+*.txt
+maps
+packages
+plugins
+vs_project
+bt.dat
+LICENSE
+node.dll
+README.md
+server.exe
+conf.json﻿
